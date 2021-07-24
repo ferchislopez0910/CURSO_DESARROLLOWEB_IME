@@ -1,5 +1,5 @@
 
-<p align="center"><img src='https://icreate.agency/wp-content/uploads/2015/10/html5-1300x470.gif' alt='Banner' width=10%></p>
+<p align="center"><img src='https://icreate.agency/wp-content/uploads/2015/10/html5-1300x470.gif' alt='Banner' width=100%></p>
 
 # Prueba semana 3
 
